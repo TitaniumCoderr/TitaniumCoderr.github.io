@@ -1,0 +1,69 @@
+.homepage-3 .welcome-area{
+    background: url("../images/website_background.png")  rgba(0, 0, 0, 0) no-repeat fixed center center / cover;
+}
+.navbar-brand-regular{
+    height: 9em;
+}
+
+.navbar-brand-sticky{
+    height: 9em;
+}
+
+#about{
+    background-color: white;
+}
+
+#about2{
+    background-color: #f4f4f4;
+}
+
+#card2{
+    background-color: rgb(12, 88, 49);
+
+}
+.cus-card{
+    color: white;
+}
+
+#about1_img{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+   
+}
+  
+#about1_img > div> img{
+    width: 30em;
+    height: 30em;
+    border-radius: 60%;
+}
+
+
+#circle_img{
+    border-radius: 50%;
+    height: 3.1em;
+    width: 3.1em;
+}
+#circle_img_ad{
+    left: 100em;
+    border-radius: 50%;
+    height: 3.5em;
+    width: 3.5em;
+}
+
+#outro{
+    padding-top: 50px;
+}
+
+#promo{
+    background: url("../images/promo_bg.png")  rgba(0, 0, 0, 0) no-repeat fixed center center / cover;
+
+}
+
+#row2{
+    padding-top: 20px;
+}
+
+#card1,#card3{
+    height: 30em;
+}
